@@ -8,6 +8,9 @@
 
 ##### 1. Load necessary packages Tidyverse and ggrepel.
 ##### 2. Load necessary dataframes from the Lahman Database, Baseball Savant, and FanGraphs.
+##### 3. Create the required data frames for each question.
+##### 4. First question it is needed to create OBP and SLG stats while using 2022 data.
+##### 5. Third question it is needed to create a new variable named shift type to find the difference in how much each team is shifting.
 
 ## Results
 
